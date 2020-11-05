@@ -1,0 +1,2 @@
+# AllureReport
+Allure Report Dashboard
